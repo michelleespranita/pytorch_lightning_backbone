@@ -1,0 +1,1 @@
+### This is where documentation related to the project should be kept
